@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Yazan Khdaj @Yazan-Dev9
-- 👀 I’m interested in python, web, linux,
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Email: yksy.dev@gmail.com FaceBook: https://www.facebook.com/yazan.khdaj.167
-- ⚡ Fun fact: I love coding late at night!
+- 👋 Hi, I’m **Yazan Khdaj** [@Yazan-Dev9](https://github.com/Yazan-Dev9)
+- 👀 I’m interested in **Python**, **Web Development**, and **Linux**
+- 🌱 I’m currently learning **Python**
+- 📫 How to reach me:  
+  * **Email:** [Yazan Kh](yksy.dev@gmail.com)  
+  * **Facebook:** [Yazan Khdaj](https://www.facebook.com/yazan.khdaj.167)
+- ⚡ **Fun fact:** I love coding late at night!
+
 
 <!---
 Yazan-Dev9/Yazan-Dev9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
